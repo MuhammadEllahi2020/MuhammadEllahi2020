@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @MuhammadEllahi2020! Welcome to my GitHub profile.
+- 👀 I'm interested in exploring new technologies and learning about software development.
+- 🌱 Currently, I'm learning web development and honing my skills in JavaScript and React.
